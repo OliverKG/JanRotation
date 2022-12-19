@@ -1,0 +1,2585 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="Acinetobacter baumannii (g-proteobacteria) 10_3" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) 10_4" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) 40288" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) AB43" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) Ax270" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) DS002" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) M175-3" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) MRSN 56" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) MRSN 58" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) MRSN57" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) Nord4-2" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) 11W359501" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) 3207" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) 5457" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) 7804" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) 7835" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) 7a4e053" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) 9102" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) A1" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) A1296" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) A1429" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) A388" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) aa6500a" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) Ab-C102" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) AB5075-UW" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) ab736" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) AbH12O-A2" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) AC1633" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) AF-401" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) AR_0063" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) AR_0083" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) AR_0088" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) AR_0101" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) B2" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) B8300" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) B8342" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) D36" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) D4" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) D46" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) DA33382" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) DETAB-P39" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) Ex003" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_540" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) HWBA8" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) J9" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) NCTC13421" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) P7774" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) UPAB1" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) USA15" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) VB82" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) WCHAB005078" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) WP4-W18-ESBL-11" />
+    <node id="Acinetobacter baumannii (g-proteobacteria) XL380" />
+    <node id="Acinetobacter baumannii AB0057 (g-proteobacteria)" />
+    <node id="Acinetobacter baumannii AB307-0294 (g-proteobacteria)" />
+    <node id="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)" />
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) 10_4">
+      <data key="d0">0.9693251533742331</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) ab736">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) M175-3">
+      <data key="d0">0.26993865030674846</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.25766871165644173</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) ATCC 17961">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.19631901840490798</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) AC1633">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) A1296">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) B2">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) J9">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) A1429">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) AF-401">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) 3207">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) 7835">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) AR_0101">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_3" target="Acinetobacter baumannii (g-proteobacteria) AR_0063">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) ab736">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) M175-3">
+      <data key="d0">0.26993865030674846</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.25766871165644173</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) ATCC 17961">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.19631901840490798</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) AC1633">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) A1296">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) B2">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) J9">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) A1429">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) AF-401">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) 3207">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) 7835">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) AR_0101">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 10_4" target="Acinetobacter baumannii (g-proteobacteria) AR_0063">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 40288" target="Acinetobacter baumannii (g-proteobacteria) Nord4-2">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 40288" target="Acinetobacter baumannii (g-proteobacteria) DS002">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 40288" target="Acinetobacter baumannii (g-proteobacteria) WP4-W18-ESBL-11">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 40288" target="Acinetobacter baumannii (g-proteobacteria) D4">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 40288" target="Acinetobacter baumannii (g-proteobacteria) D46">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 40288" target="Acinetobacter baumannii (g-proteobacteria) aa6500a">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 40288" target="Acinetobacter baumannii (g-proteobacteria) HWBA8">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 40288" target="Acinetobacter baumannii (g-proteobacteria) AC1633">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 40288" target="Acinetobacter baumannii (g-proteobacteria) P7774">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 40288" target="Acinetobacter baumannii (g-proteobacteria) UPAB1">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 40288" target="Acinetobacter baumannii (g-proteobacteria) AB43">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 40288" target="Acinetobacter baumannii (g-proteobacteria) AR_0088">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 40288" target="Acinetobacter baumannii (g-proteobacteria) 7804">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 40288" target="Acinetobacter baumannii (g-proteobacteria) 7a4e053">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 40288" target="Acinetobacter baumannii (g-proteobacteria) VB82">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) Ax270">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) A388">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB232-VUB">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) A1">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB229-VUB">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) 5457">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) 11W359501">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 56">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB227-VUB">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN57">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 58">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) 9102">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5521472392638037</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB169-VUB" target="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) Ax270">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) A388">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB232-VUB">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) A1">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB229-VUB">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) 5457">
+      <data key="d0">0.5766871165644172</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) 11W359501">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.5766871165644172</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 56">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.5766871165644172</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN57">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 58">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) 9102">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5398773006134969</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB227-VUB" target="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) Ax270">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) A388">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB232-VUB">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) A1">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) 5457">
+      <data key="d0">0.5766871165644172</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) 11W359501">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.5766871165644172</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 56">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.5766871165644172</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN57">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 58">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) 9102">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5398773006134969</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB229-VUB" target="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) Ax270">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) A388">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) A1">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) 5457">
+      <data key="d0">0.5766871165644172</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) 11W359501">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.5766871165644172</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 56">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.5766871165644172</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN57">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 58">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) 9102">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5398773006134969</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB232-VUB" target="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB43" target="Acinetobacter baumannii (g-proteobacteria) Nord4-2">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB43" target="Acinetobacter baumannii (g-proteobacteria) DS002">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB43" target="Acinetobacter baumannii (g-proteobacteria) WP4-W18-ESBL-11">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB43" target="Acinetobacter baumannii (g-proteobacteria) D4">
+      <data key="d0">0.049079754601226995</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB43" target="Acinetobacter baumannii (g-proteobacteria) D46">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB43" target="Acinetobacter baumannii (g-proteobacteria) aa6500a">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB43" target="Acinetobacter baumannii (g-proteobacteria) HWBA8">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB43" target="Acinetobacter baumannii (g-proteobacteria) AC1633">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB43" target="Acinetobacter baumannii (g-proteobacteria) P7774">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB43" target="Acinetobacter baumannii (g-proteobacteria) UPAB1">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB43" target="Acinetobacter baumannii (g-proteobacteria) AR_0088">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB43" target="Acinetobacter baumannii (g-proteobacteria) 7804">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB43" target="Acinetobacter baumannii (g-proteobacteria) 7a4e053">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB43" target="Acinetobacter baumannii (g-proteobacteria) VB82">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) Ax270">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) A388">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) A1">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) 5457">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) 11W359501">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 56">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN57">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 58">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) 9102">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5521472392638037</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB" target="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) Ax270">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) A388">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) A1">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) 5457">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) 11W359501">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) MRSN 56">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) MRSN57">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) MRSN 58">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) 9102">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5521472392638037</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-VUB-itrA::ISAba13" target="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) ab736">
+      <data key="d0">0.7607361963190185</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) M175-3">
+      <data key="d0">0.294478527607362</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.25766871165644173</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03">
+      <data key="d0">0.7607361963190185</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.7607361963190185</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa">
+      <data key="d0">0.7607361963190185</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606">
+      <data key="d0">0.7607361963190185</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.7607361963190185</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB">
+      <data key="d0">0.7607361963190185</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.19631901840490798</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) A1296">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) B2">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) J9">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) A1429">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) AF-401">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) 3207">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) 7835">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) AR_0101">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 17961" target="Acinetobacter baumannii (g-proteobacteria) AR_0063">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii (g-proteobacteria) ab736">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii (g-proteobacteria) M175-3">
+      <data key="d0">0.294478527607362</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.25766871165644173</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.19631901840490798</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii (g-proteobacteria) A1296">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii (g-proteobacteria) B2">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii (g-proteobacteria) J9">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii (g-proteobacteria) A1429">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii (g-proteobacteria) AF-401">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii (g-proteobacteria) 3207">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii (g-proteobacteria) 7835">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii (g-proteobacteria) AR_0101">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606" target="Acinetobacter baumannii (g-proteobacteria) AR_0063">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" target="Acinetobacter baumannii (g-proteobacteria) ab736">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" target="Acinetobacter baumannii (g-proteobacteria) M175-3">
+      <data key="d0">0.294478527607362</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.25766871165644173</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.19631901840490798</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" target="Acinetobacter baumannii (g-proteobacteria) A1296">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" target="Acinetobacter baumannii (g-proteobacteria) B2">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" target="Acinetobacter baumannii (g-proteobacteria) J9">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" target="Acinetobacter baumannii (g-proteobacteria) A1429">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" target="Acinetobacter baumannii (g-proteobacteria) AF-401">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" target="Acinetobacter baumannii (g-proteobacteria) 3207">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" target="Acinetobacter baumannii (g-proteobacteria) 7835">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" target="Acinetobacter baumannii (g-proteobacteria) AR_0101">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC19606-VUB" target="Acinetobacter baumannii (g-proteobacteria) AR_0063">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) A388">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) A1">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) 5457">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) 11W359501">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5276073619631901</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) MRSN 56">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.5766871165644172</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) MRSN57">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) MRSN 58">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) 9102">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5644171779141104</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ax270" target="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DS002" target="Acinetobacter baumannii (g-proteobacteria) Nord4-2">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DS002" target="Acinetobacter baumannii (g-proteobacteria) WP4-W18-ESBL-11">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DS002" target="Acinetobacter baumannii (g-proteobacteria) D4">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DS002" target="Acinetobacter baumannii (g-proteobacteria) D46">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DS002" target="Acinetobacter baumannii (g-proteobacteria) aa6500a">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DS002" target="Acinetobacter baumannii (g-proteobacteria) HWBA8">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DS002" target="Acinetobacter baumannii (g-proteobacteria) AC1633">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DS002" target="Acinetobacter baumannii (g-proteobacteria) P7774">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DS002" target="Acinetobacter baumannii (g-proteobacteria) UPAB1">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DS002" target="Acinetobacter baumannii (g-proteobacteria) AR_0088">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DS002" target="Acinetobacter baumannii (g-proteobacteria) 7804">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DS002" target="Acinetobacter baumannii (g-proteobacteria) 7a4e053">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DS002" target="Acinetobacter baumannii (g-proteobacteria) VB82">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DS002" target="Acinetobacter baumannii (g-proteobacteria) B8300">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) A388">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) 11W359501">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) 5457">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 56">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN 58">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) A1">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) 9102">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) MRSN57">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DSM30011-VUB" target="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) M175-3" target="Acinetobacter baumannii (g-proteobacteria) ab736">
+      <data key="d0">0.294478527607362</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) M175-3" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.25766871165644173</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) M175-3" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03">
+      <data key="d0">0.294478527607362</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) M175-3" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.294478527607362</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) M175-3" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa">
+      <data key="d0">0.294478527607362</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) M175-3" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.294478527607362</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) M175-3" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.18404907975460122</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) M175-3" target="Acinetobacter baumannii (g-proteobacteria) A1296">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) M175-3" target="Acinetobacter baumannii (g-proteobacteria) B2">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) M175-3" target="Acinetobacter baumannii (g-proteobacteria) J9">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) M175-3" target="Acinetobacter baumannii (g-proteobacteria) A1429">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) M175-3" target="Acinetobacter baumannii (g-proteobacteria) AF-401">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) M175-3" target="Acinetobacter baumannii (g-proteobacteria) 3207">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) M175-3" target="Acinetobacter baumannii (g-proteobacteria) 7835">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) M175-3" target="Acinetobacter baumannii (g-proteobacteria) AR_0101">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) M175-3" target="Acinetobacter baumannii (g-proteobacteria) AR_0063">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.6380368098159509</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) A388">
+      <data key="d0">0.6380368098159509</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) A1">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) 5457">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac">
+      <data key="d0">0.6380368098159509</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) 11W359501">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5276073619631901</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) MRSN57">
+      <data key="d0">0.6380368098159509</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) MRSN 58">
+      <data key="d0">0.6380368098159509</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) 9102">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5644171779141104</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56" target="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.6380368098159509</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) A388">
+      <data key="d0">0.6380368098159509</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) A1">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) 5457">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) 11W359501">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5276073619631901</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) MRSN57">
+      <data key="d0">0.6380368098159509</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) MRSN 58">
+      <data key="d0">0.6380368098159509</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) 9102">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5644171779141104</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6380368098159509</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 56 aec9dac" target="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.6380368098159509</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) A388">
+      <data key="d0">0.6380368098159509</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) A1">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) 5457">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) 11W359501">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5276073619631901</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) MRSN57">
+      <data key="d0">0.6380368098159509</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) 9102">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5644171779141104</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN 58" target="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.6380368098159509</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii (g-proteobacteria) A388">
+      <data key="d0">0.6380368098159509</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii (g-proteobacteria) A1">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii (g-proteobacteria) 5457">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii (g-proteobacteria) 11W359501">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5276073619631901</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii (g-proteobacteria) 9102">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5644171779141104</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) MRSN57" target="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Nord4-2" target="Acinetobacter baumannii (g-proteobacteria) WP4-W18-ESBL-11">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Nord4-2" target="Acinetobacter baumannii (g-proteobacteria) D4">
+      <data key="d0">0.36809815950920244</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Nord4-2" target="Acinetobacter baumannii (g-proteobacteria) D46">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Nord4-2" target="Acinetobacter baumannii (g-proteobacteria) aa6500a">
+      <data key="d0">0.147239263803681</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Nord4-2" target="Acinetobacter baumannii (g-proteobacteria) HWBA8">
+      <data key="d0">0.5644171779141104</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Nord4-2" target="Acinetobacter baumannii (g-proteobacteria) AC1633">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Nord4-2" target="Acinetobacter baumannii (g-proteobacteria) P7774">
+      <data key="d0">0.5276073619631901</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Nord4-2" target="Acinetobacter baumannii (g-proteobacteria) UPAB1">
+      <data key="d0">0.5276073619631901</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Nord4-2" target="Acinetobacter baumannii (g-proteobacteria) AR_0088">
+      <data key="d0">0.5644171779141104</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Nord4-2" target="Acinetobacter baumannii (g-proteobacteria) 7804">
+      <data key="d0">0.4785276073619632</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Nord4-2" target="Acinetobacter baumannii (g-proteobacteria) 7a4e053">
+      <data key="d0">0.147239263803681</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Nord4-2" target="Acinetobacter baumannii (g-proteobacteria) VB82">
+      <data key="d0">0.5644171779141104</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.9325153374233128</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) 9102">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) A1">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) 5457">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) A388">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) 11W359501">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) B8300">
+      <data key="d0">0.36809815950920244</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) DETAB-P39">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) OCU_Ac18" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_540">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 11W359501" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 11W359501" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 11W359501" target="Acinetobacter baumannii (g-proteobacteria) A388">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 11W359501" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 11W359501" target="Acinetobacter baumannii (g-proteobacteria) A1">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 11W359501" target="Acinetobacter baumannii (g-proteobacteria) 5457">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 11W359501" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 11W359501" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 11W359501" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 11W359501" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 11W359501" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 11W359501" target="Acinetobacter baumannii (g-proteobacteria) 9102">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 11W359501" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5521472392638037</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 11W359501" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 11W359501" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 11W359501" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 11W359501" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 3207" target="Acinetobacter baumannii (g-proteobacteria) AF-401">
+      <data key="d0">1.116564417177914</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 3207" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 3207" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 3207" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 3207" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 3207" target="Acinetobacter baumannii (g-proteobacteria) ab736">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 3207" target="Acinetobacter baumannii (g-proteobacteria) 7835">
+      <data key="d0">1.2515337423312884</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 3207" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 3207" target="Acinetobacter baumannii (g-proteobacteria) AR_0101">
+      <data key="d0">1.0920245398773005</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 3207" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 3207" target="Acinetobacter baumannii (g-proteobacteria) AR_0063">
+      <data key="d0">1.116564417177914</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 3207" target="Acinetobacter baumannii (g-proteobacteria) AbH12O-A2">
+      <data key="d0">1.1901840490797546</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 3207" target="Acinetobacter baumannii (g-proteobacteria) DETAB-P39">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 3207" target="Acinetobacter baumannii (g-proteobacteria) 7804">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 3207" target="Acinetobacter baumannii (g-proteobacteria) A1429">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 5457" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 5457" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 5457" target="Acinetobacter baumannii (g-proteobacteria) A388">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 5457" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 5457" target="Acinetobacter baumannii (g-proteobacteria) A1">
+      <data key="d0">0.5644171779141104</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 5457" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 5457" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 5457" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.5766871165644172</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 5457" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.5521472392638037</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 5457" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 5457" target="Acinetobacter baumannii (g-proteobacteria) 9102">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 5457" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5398773006134969</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 5457" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 5457" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 5457" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 5457" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7804" target="Acinetobacter baumannii (g-proteobacteria) WP4-W18-ESBL-11">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7804" target="Acinetobacter baumannii (g-proteobacteria) D4">
+      <data key="d0">0.2331288343558282</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7804" target="Acinetobacter baumannii (g-proteobacteria) D46">
+      <data key="d0">0.4294478527607362</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7804" target="Acinetobacter baumannii (g-proteobacteria) aa6500a">
+      <data key="d0">0.147239263803681</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7804" target="Acinetobacter baumannii (g-proteobacteria) HWBA8">
+      <data key="d0">0.4785276073619632</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7804" target="Acinetobacter baumannii (g-proteobacteria) AC1633">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7804" target="Acinetobacter baumannii (g-proteobacteria) P7774">
+      <data key="d0">0.44171779141104295</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7804" target="Acinetobacter baumannii (g-proteobacteria) UPAB1">
+      <data key="d0">0.44171779141104295</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7804" target="Acinetobacter baumannii (g-proteobacteria) AR_0088">
+      <data key="d0">0.4785276073619632</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7804" target="Acinetobacter baumannii (g-proteobacteria) 7a4e053">
+      <data key="d0">0.147239263803681</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7804" target="Acinetobacter baumannii (g-proteobacteria) VB82">
+      <data key="d0">0.4785276073619632</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7804" target="Acinetobacter baumannii (g-proteobacteria) AR_0063">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7804" target="Acinetobacter baumannii (g-proteobacteria) 7835">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7804" target="Acinetobacter baumannii (g-proteobacteria) AbH12O-A2">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7804" target="Acinetobacter baumannii (g-proteobacteria) AR_0101">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7804" target="Acinetobacter baumannii (g-proteobacteria) AF-401">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7835" target="Acinetobacter baumannii (g-proteobacteria) AF-401">
+      <data key="d0">1.116564417177914</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7835" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7835" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7835" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7835" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7835" target="Acinetobacter baumannii (g-proteobacteria) ab736">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7835" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7835" target="Acinetobacter baumannii (g-proteobacteria) AR_0101">
+      <data key="d0">1.0920245398773005</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7835" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7835" target="Acinetobacter baumannii (g-proteobacteria) AR_0063">
+      <data key="d0">1.116564417177914</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7835" target="Acinetobacter baumannii (g-proteobacteria) AbH12O-A2">
+      <data key="d0">1.1901840490797546</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7835" target="Acinetobacter baumannii (g-proteobacteria) DETAB-P39">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7835" target="Acinetobacter baumannii (g-proteobacteria) A1429">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7a4e053" target="Acinetobacter baumannii (g-proteobacteria) WP4-W18-ESBL-11">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7a4e053" target="Acinetobacter baumannii (g-proteobacteria) D4">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7a4e053" target="Acinetobacter baumannii (g-proteobacteria) D46">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7a4e053" target="Acinetobacter baumannii (g-proteobacteria) aa6500a">
+      <data key="d0">0.7116564417177914</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7a4e053" target="Acinetobacter baumannii (g-proteobacteria) HWBA8">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7a4e053" target="Acinetobacter baumannii (g-proteobacteria) AC1633">
+      <data key="d0">0.5030674846625767</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7a4e053" target="Acinetobacter baumannii (g-proteobacteria) P7774">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7a4e053" target="Acinetobacter baumannii (g-proteobacteria) UPAB1">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7a4e053" target="Acinetobacter baumannii (g-proteobacteria) AR_0088">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 7a4e053" target="Acinetobacter baumannii (g-proteobacteria) VB82">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 9102" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 9102" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 9102" target="Acinetobacter baumannii (g-proteobacteria) A388">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 9102" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 9102" target="Acinetobacter baumannii (g-proteobacteria) A1">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 9102" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 9102" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5276073619631901</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 9102" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 9102" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.5766871165644172</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 9102" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 9102" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5644171779141104</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 9102" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 9102" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 9102" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) 9102" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1" target="Acinetobacter baumannii (g-proteobacteria) A388">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5276073619631901</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.5644171779141104</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.5521472392638037</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5276073619631901</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1296" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1296" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1296" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1296" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1296" target="Acinetobacter baumannii (g-proteobacteria) ab736">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1296" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1296" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1296" target="Acinetobacter baumannii (g-proteobacteria) B2">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1296" target="Acinetobacter baumannii (g-proteobacteria) J9">
+      <data key="d0">0.19631901840490798</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1296" target="Acinetobacter baumannii (g-proteobacteria) A1429">
+      <data key="d0">0.09815950920245399</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1296" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1296" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1429" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1429" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1429" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1429" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1429" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1429" target="Acinetobacter baumannii (g-proteobacteria) B2">
+      <data key="d0">0.09815950920245399</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1429" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1429" target="Acinetobacter baumannii (g-proteobacteria) J9">
+      <data key="d0">0.11042944785276074</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1429" target="Acinetobacter baumannii (g-proteobacteria) ab736">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1429" target="Acinetobacter baumannii (g-proteobacteria) AbH12O-A2">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1429" target="Acinetobacter baumannii (g-proteobacteria) AR_0101">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1429" target="Acinetobacter baumannii (g-proteobacteria) AR_0063">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A1429" target="Acinetobacter baumannii (g-proteobacteria) AF-401">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A388" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.6380368098159509</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A388" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A388" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A388" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A388" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5276073619631901</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A388" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A388" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A388" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A388" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5644171779141104</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A388" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A388" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A388" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) A388" target="Acinetobacter baumannii (g-proteobacteria) Ab-C102">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) aa6500a" target="Acinetobacter baumannii (g-proteobacteria) WP4-W18-ESBL-11">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) aa6500a" target="Acinetobacter baumannii (g-proteobacteria) D4">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) aa6500a" target="Acinetobacter baumannii (g-proteobacteria) D46">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) aa6500a" target="Acinetobacter baumannii (g-proteobacteria) HWBA8">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) aa6500a" target="Acinetobacter baumannii (g-proteobacteria) AC1633">
+      <data key="d0">0.5030674846625767</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) aa6500a" target="Acinetobacter baumannii (g-proteobacteria) P7774">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) aa6500a" target="Acinetobacter baumannii (g-proteobacteria) UPAB1">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) aa6500a" target="Acinetobacter baumannii (g-proteobacteria) AR_0088">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) aa6500a" target="Acinetobacter baumannii (g-proteobacteria) VB82">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ab-C102" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ab-C102" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ab-C102" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ab-C102" target="Acinetobacter baumannii (g-proteobacteria) AB5075-UW">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ab-C102" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ab-C102" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ab-C102" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ab-C102" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ab-C102" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ab-C102" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ab-C102" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ab-C102" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ab-C102" target="Acinetobacter baumannii (g-proteobacteria) B8300">
+      <data key="d0">0.3803680981595092</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ab-C102" target="Acinetobacter baumannii (g-proteobacteria) DETAB-P39">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ab-C102" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ab-C102" target="Acinetobacter baumannii (g-proteobacteria) B2">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-UW" target="Acinetobacter baumannii (g-proteobacteria) AR_0083">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-UW" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-UW" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-UW" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-UW" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-UW" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-UW" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-UW" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5521472392638037</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-UW" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-UW" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AB5075-UW" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ab736" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.25766871165644173</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ab736" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ab736" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ab736" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ab736" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ab736" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.19631901840490798</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ab736" target="Acinetobacter baumannii (g-proteobacteria) B2">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ab736" target="Acinetobacter baumannii (g-proteobacteria) J9">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ab736" target="Acinetobacter baumannii (g-proteobacteria) AF-401">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ab736" target="Acinetobacter baumannii (g-proteobacteria) AR_0101">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ab736" target="Acinetobacter baumannii (g-proteobacteria) AR_0063">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AbH12O-A2" target="Acinetobacter baumannii (g-proteobacteria) AR_0063">
+      <data key="d0">1.5460122699386503</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AbH12O-A2" target="Acinetobacter baumannii (g-proteobacteria) AF-401">
+      <data key="d0">1.4110429447852761</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AbH12O-A2" target="Acinetobacter baumannii (g-proteobacteria) AR_0101">
+      <data key="d0">1.50920245398773</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AbH12O-A2" target="Acinetobacter baumannii (g-proteobacteria) DETAB-P39">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AC1633" target="Acinetobacter baumannii (g-proteobacteria) WP4-W18-ESBL-11">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AC1633" target="Acinetobacter baumannii (g-proteobacteria) D4">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AC1633" target="Acinetobacter baumannii (g-proteobacteria) D46">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AC1633" target="Acinetobacter baumannii (g-proteobacteria) HWBA8">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AC1633" target="Acinetobacter baumannii (g-proteobacteria) P7774">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AC1633" target="Acinetobacter baumannii (g-proteobacteria) UPAB1">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AC1633" target="Acinetobacter baumannii (g-proteobacteria) AR_0088">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AC1633" target="Acinetobacter baumannii (g-proteobacteria) VB82">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AF-401" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AF-401" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AF-401" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AF-401" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AF-401" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AF-401" target="Acinetobacter baumannii (g-proteobacteria) AR_0101">
+      <data key="d0">1.2392638036809815</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AF-401" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AF-401" target="Acinetobacter baumannii (g-proteobacteria) AR_0063">
+      <data key="d0">1.2638036809815951</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AF-401" target="Acinetobacter baumannii (g-proteobacteria) DETAB-P39">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0063" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0063" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0063" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0063" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0063" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0063" target="Acinetobacter baumannii (g-proteobacteria) AR_0101">
+      <data key="d0">1.361963190184049</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0063" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0063" target="Acinetobacter baumannii (g-proteobacteria) DETAB-P39">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0083" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0083" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0083" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0083" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5276073619631901</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0083" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.6012269938650306</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0083" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0083" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5644171779141104</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0083" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0083" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0083" target="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0088" target="Acinetobacter baumannii (g-proteobacteria) WP4-W18-ESBL-11">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0088" target="Acinetobacter baumannii (g-proteobacteria) D4">
+      <data key="d0">0.3558282208588957</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0088" target="Acinetobacter baumannii (g-proteobacteria) D46">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0088" target="Acinetobacter baumannii (g-proteobacteria) HWBA8">
+      <data key="d0">0.6871165644171779</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0088" target="Acinetobacter baumannii (g-proteobacteria) P7774">
+      <data key="d0">0.6503067484662577</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0088" target="Acinetobacter baumannii (g-proteobacteria) UPAB1">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0088" target="Acinetobacter baumannii (g-proteobacteria) VB82">
+      <data key="d0">0.6871165644171779</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0101" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0101" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0101" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0101" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0101" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.024539877300613498</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0101" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) AR_0101" target="Acinetobacter baumannii (g-proteobacteria) DETAB-P39">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.25766871165644173</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa" target="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.19631901840490798</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa" target="Acinetobacter baumannii (g-proteobacteria) B2">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 cba4aaa" target="Acinetobacter baumannii (g-proteobacteria) J9">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.25766871165644173</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.19631901840490798</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03" target="Acinetobacter baumannii (g-proteobacteria) B2">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC 19606 ed7ae03" target="Acinetobacter baumannii (g-proteobacteria) J9">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.5521472392638037</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) ATCC BAA1605" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) B2" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.049079754601226995</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) B2" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533">
+      <data key="d0">0.049079754601226995</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) B2" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) B2" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) B2" target="Acinetobacter baumannii (g-proteobacteria) J9">
+      <data key="d0">0.17177914110429449</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) B2" target="Acinetobacter baumannii (g-proteobacteria) D36">
+      <data key="d0">0.012269938650306749</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D36" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.5521472392638037</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D36" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.5521472392638037</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D36" target="Acinetobacter baumannii (g-proteobacteria) DA33382">
+      <data key="d0">0.5521472392638037</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D36" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.49079754601226994</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D36" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.5398773006134969</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D36" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D36" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.5521472392638037</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D36" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.5521472392638037</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D4" target="Acinetobacter baumannii (g-proteobacteria) WP4-W18-ESBL-11">
+      <data key="d0">0.049079754601226995</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D4" target="Acinetobacter baumannii (g-proteobacteria) D46">
+      <data key="d0">0.3067484662576687</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D4" target="Acinetobacter baumannii (g-proteobacteria) HWBA8">
+      <data key="d0">0.3558282208588957</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D4" target="Acinetobacter baumannii (g-proteobacteria) P7774">
+      <data key="d0">0.34355828220858897</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D4" target="Acinetobacter baumannii (g-proteobacteria) UPAB1">
+      <data key="d0">0.31901840490797545</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D4" target="Acinetobacter baumannii (g-proteobacteria) VB82">
+      <data key="d0">0.3558282208588957</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D46" target="Acinetobacter baumannii (g-proteobacteria) WP4-W18-ESBL-11">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D46" target="Acinetobacter baumannii (g-proteobacteria) HWBA8">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D46" target="Acinetobacter baumannii (g-proteobacteria) P7774">
+      <data key="d0">0.5521472392638037</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D46" target="Acinetobacter baumannii (g-proteobacteria) UPAB1">
+      <data key="d0">0.5644171779141104</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) D46" target="Acinetobacter baumannii (g-proteobacteria) VB82">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DA33382" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DA33382" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DA33382" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DA33382" target="Acinetobacter baumannii (g-proteobacteria) Ex003">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DA33382" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DA33382" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DA33382" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) DETAB-P39" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.08588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ex003" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ex003" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ex003" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5030674846625767</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ex003" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.5521472392638037</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ex003" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) Ex003" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_1036" target="Acinetobacter baumannii (g-proteobacteria) NCTC13421">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533" target="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917">
+      <data key="d0">0.19631901840490798</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.19631901840490798</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.2822085889570552</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_533" target="Acinetobacter baumannii (g-proteobacteria) J9">
+      <data key="d0">0.049079754601226995</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.25766871165644173</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.7852760736196319</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) FDAARGOS_917" target="Acinetobacter baumannii (g-proteobacteria) J9">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) HWBA8" target="Acinetobacter baumannii (g-proteobacteria) WP4-W18-ESBL-11">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) HWBA8" target="Acinetobacter baumannii (g-proteobacteria) P7774">
+      <data key="d0">0.6503067484662577</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) HWBA8" target="Acinetobacter baumannii (g-proteobacteria) UPAB1">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) HWBA8" target="Acinetobacter baumannii (g-proteobacteria) VB82">
+      <data key="d0">0.6871165644171779</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) J9" target="Acinetobacter baumannii (g-proteobacteria) XL380">
+      <data key="d0">0.06134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) J9" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.03680981595092025</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) NCTC13421" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) NCTC13421" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) NCTC13421" target="Acinetobacter baumannii (g-proteobacteria) USA15">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) NCTC13421" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) P7774" target="Acinetobacter baumannii (g-proteobacteria) WP4-W18-ESBL-11">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) P7774" target="Acinetobacter baumannii (g-proteobacteria) UPAB1">
+      <data key="d0">0.5766871165644172</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) P7774" target="Acinetobacter baumannii (g-proteobacteria) VB82">
+      <data key="d0">0.6871165644171779</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) UPAB1" target="Acinetobacter baumannii (g-proteobacteria) WP4-W18-ESBL-11">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) UPAB1" target="Acinetobacter baumannii (g-proteobacteria) VB82">
+      <data key="d0">0.6134969325153374</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) USA15" target="Acinetobacter baumannii (g-proteobacteria) WCHAB005078">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) USA15" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.4785276073619632</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) USA15" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.588957055214724</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) VB82" target="Acinetobacter baumannii (g-proteobacteria) WP4-W18-ESBL-11">
+      <data key="d0">0.0736196319018405</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) WCHAB005078" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) WCHAB005078" target="Acinetobacter baumannii AB0057 (g-proteobacteria)">
+      <data key="d0">0.6257668711656442</data>
+    </edge>
+    <edge source="Acinetobacter baumannii (g-proteobacteria) XL380" target="Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841 (g-proteobacteria)">
+      <data key="d0">0.25766871165644173</data>
+    </edge>
+    <edge source="Acinetobacter baumannii AB0057 (g-proteobacteria)" target="Acinetobacter baumannii AB307-0294 (g-proteobacteria)">
+      <data key="d0">0.5153374233128835</data>
+    </edge>
+  </graph>
+</graphml>
